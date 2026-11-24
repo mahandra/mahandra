@@ -20,4 +20,3 @@ Python, Django, Django REST Framework, PostgreSQL / pgvector, Celery, Redis, HTM
 
 I'm open to fully remote roles centered on Python and Django development.
 
-More at **[makhotin.net](https://makhotin.net)**.
